@@ -8,8 +8,10 @@ Install python 3.7.6
 https://www.python.org/downloads/release/python-376/
 
 Install the following packages using pip or conda
-- pandas 
+- pandas 1.2.0
 - numpy 1.18.1
+- matplotlib 3.3.3
+- Pillow 8.0.1
 
 To install using pip use the command
 
