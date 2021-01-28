@@ -1,3 +1,3 @@
-#Screenshots
+# Screenshots
 
-*Screenshots of all the operations done are added here*
+* Screenshots of all the operations done are added here *
